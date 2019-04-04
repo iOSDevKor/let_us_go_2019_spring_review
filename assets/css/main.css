@@ -1990,6 +1990,15 @@
 					background: #7fb7d2;
 				}
 
+			.icon.circle.fa-home {
+				background: #CE365B;
+				color: #fff;
+			}
+
+				.icon.circle.fa-home:hover {
+					background: #CE365B;
+				}
+
 		.icon.featured {
 			cursor: default;
 			display: block;
